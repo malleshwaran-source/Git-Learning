@@ -3,4 +3,4 @@ Role: Backend Developer
 Learning:Git
 Age:20
 Place:Coimbatore
-Skill:Git
+Skill:Git,Python,Github
